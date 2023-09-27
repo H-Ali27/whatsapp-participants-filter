@@ -1,6 +1,6 @@
-# Whatsapp Participants Filter
+# Whatsapp Participents removal api
 Only Keeps list of user in the groups, all others are kicked out.
-
+# Whatsapp Participants Filter
 ## Steps to run
 1. Clone the repo
 2. inside the repo root run `npm install`
